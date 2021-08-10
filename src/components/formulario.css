@@ -1,0 +1,65 @@
+.formulario{
+  border: 1px solid #dfe2e1;
+  box-shadow: 0px 0px 5px 1px rgb(199, 206, 202);
+  background: #f0f3f2;
+  /*background: rgba(252, 249, 249, 0.5);*/
+  border-radius: 4px;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+   font-family: 'Roboto', sans-serif;
+}
+
+.form-control{
+  padding: 18px 25px;
+  margin: 20px 5px;
+  border: 2px solid rgb(197, 195, 195);
+  font-size: 16px;  
+  
+}
+
+.form-nombre{
+  border-radius: 5px 0px 0px 5px;
+}
+
+.form-numero{
+  border-radius: 0px 5px 5px 0px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.errores{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.error{
+  font-weight:lighter;
+  font-style: normal;
+  font-family: sans-serif;
+  color: #32A9D4;
+  line-height: 1.6;
+}
+
+.btn-form{
+  padding: 10px 30px;
+ font-size: 18px;
+ font-weight: bold;
+ color: #32A9D4;
+ background: #fff;
+ cursor: pointer;
+ border: 1.8px solid #32A9D4;
+ margin: 5px;
+ border-radius: 5px;
+ 
+}
+
+.btn-form:hover{
+  box-shadow: 0px 0px 3px 1px rgb(113, 201, 216); 
+}
