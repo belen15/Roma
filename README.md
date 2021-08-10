@@ -6,6 +6,7 @@
 
 <img width="944" alt="roma-3" src="https://user-images.githubusercontent.com/61084715/128829641-ac18a29c-8202-4f81-9fd6-4417ed41f197.png">
 
-<img width="940" alt="roma-4" src="https://user-images.githubusercontent.com/61084715/128829644-172533b0-7887-4fbb-972b-0663eb566b11.png">
+# Video de la App
+https://user-images.githubusercontent.com/61084715/128829900-f0ef439e-6c53-4a27-bf41-696bc9e5ebb1.mp4
 
 <img width="942" alt="roma-5" src="https://user-images.githubusercontent.com/61084715/128829647-cc680280-5b87-4ced-a626-7cc6fd23e108.png">
