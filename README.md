@@ -9,4 +9,6 @@
 # Video de la App
 https://user-images.githubusercontent.com/61084715/128829900-f0ef439e-6c53-4a27-bf41-696bc9e5ebb1.mp4
 
+#Archivo Json
+
 <img width="942" alt="roma-5" src="https://user-images.githubusercontent.com/61084715/128829647-cc680280-5b87-4ced-a626-7cc6fd23e108.png">
