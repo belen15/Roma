@@ -1,0 +1,48 @@
+{
+  "info": [
+    {
+      "id": "1",
+      "nombre": "Cataratas del Iguazú",
+      "descripcion": "Localizadas entre Brasil y Argentina, las Cataratas del Iguazú están formadas por 275 saltos de agua de hasta 80 metros de altura que componen uno de los mayores espectáculos de la naturaleza. Elegidas como una de las Siete Maravillas Naturales del Mundo, las cataratas conforman un maravilloso paisaje capaz de hacer saltar las lágrimas de sus visitantes con su salvaje magnitud.",
+      "imagen": "https://www.eluniversal.com.mx/sites/default/files/2018/09/21/cataratas_iguazu_argentina_brasil.jpg",
+      "price": "800 USD"
+    },
+    {
+      "id": "2",
+      "nombre": "Mendoza" ,
+      "descripcion": "El cerro Aconcagua, la cumbre más alta del hemisferio occidental, domina esta tranquila capital, que comparte nombre con la provincia de Cuyo, en la que reside. Aunque atrae a un buen número de viajeros en busca de aventura, maravillados por las oportunidades de practicar alpinismo, senderismo y rafting a poca distancia en coche del centro, Mendoza también es querida por los enófilos que van a degustar sus caldos, especialmente el Malbec. Las visitas y las catas en los más de mil viñedos de la zona son una de las principales atracciones de la región.",
+      "imagen": "https://cnnespanol.cnn.com/wp-content/uploads/2020/11/mendoza.jpg?quality=100&strip=info",
+      "price": "1.200 USD"
+    },
+    {
+      "id": "3",
+      "nombre": "San Carlos de Bariloche" ,
+      "descripcion": "Bariloche es una ciudad ubicada entre bosques milenarios, montañas cubiertas de nieve y lagos cristalinos, en la provincia de Río Negro, Argentina. Se trata de una postal de nuestra Patagonia. Una ciudad anfitriona por excelencia, enmarcada por algunas de las bellezas naturales más importantes del país. En Bariloche tenés variedad de actividades para disfrutar: excursiones tradicionales, paseos lacustres, nieve para todos los gustos, la mejor gastronomía, turismo joven, salidas románticas, actividades familiares, aventura, tranquilidad y una agenda cultural diversa. La ciudad te ofrece tantas opciones que vas a querer visitarnos una y otra vez.",
+      "imagen": "https://s3.amazonaws.com/blog.avt.prd/uploads/2018/06/22192905/shutterstock_741412153.jpg" ,
+      "price": "1.300 USD"
+    },
+    {
+      "id": "4",
+      "nombre": "El Calafate y Glaciar Perito Moreno" ,
+      "descripcion": "El Calafate sirve de puerta de entrada para visitar una de las maravillas naturales del mundo bien sea por libre o formando parte de un tour. El glaciar perito Moreno es uno de esos lugares capaces de devolverte a la vida casi al instante. Es capaz de convencerte de que has encontrado tu lugar a pesar de encontrarse casi en el fin del mundo." ,
+      "imagen": "https://content.r9cdn.net/rimg/dimg/a9/50/3d0b550a-city-52460-1671e1e779a.jpg?width=1750&height=1000&xhint=1893&yhint=1615&crop=true",
+      "price": "1.500 USD"
+    },
+    {
+      "id": "5",
+      "nombre": "Noroeste Argentino",
+      "descripcion": "Esta región de Argentina la integran seis provincias ubicadas en el noroeste del territorio: Jujuy, Salta, La Rioja, Catamarca, Santiago del Estero y Tucumán. Los colores de la Quebrada, los Valles Calchaquíes, el Tren a las Nubes, los salares, las termas, el folclore, los platos típicos y el vino Torrontés de altura, son tan sólo algunas de las diversas opciones que vas a poder disfrutar en el noroeste argentino. Los pueblos de la Quebrada de Humahuaca y de los Valles Calchaquíes, el Camino del Inca y el Camino Real, lugares históricos, ciudadelas y pucarás son algunas de las posibilidades para adentrarse a la cultura norteña.",
+      "imagen" : "https://media.istockphoto.com/photos/quebrada-de-humahuaca-mountains-picture-id693471460?k=6&m=693471460&s=612x612&w=0&h=WPcmMSN2GSVFMYN89nddpNV1wBxPZHWILYDwNEyiuBw=",
+      "price": "1.000 USD"
+    },
+    {
+      "id": "6",
+      "nombre": "Ushuaia" ,
+      "descripcion": "Ushuaia, Patagonia, Argentina… Tres nombres que despiertan la fantasía de miles de personas en todo el mundo. Esa región mítica, lejana, inmensa. Al recorrerla el visitante puede observar el movimiento de la Madre Tierra. Finalizando la estepa patagónica, ya en la Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, la Cordillera de los Andes se impone en el paisaje mostrando valles glaciarios, turberas, bosques milenarios para finalmente llegar a un paraíso en el sur. USHUAIA, ciudad única, capital de la Provincia ofrece sus bellezas naturales, culturales, infraestructura de servicios para que aquellos quienes la conozcan no la olviden nunca jamás.",
+      "imagen": "https://elfederalista.com.ar/wp-content/uploads/2020/09/Ushuaia-Patagonia-Chile.jpg",
+      "price": "2.000 USD"
+    }
+
+
+  ]
+}
